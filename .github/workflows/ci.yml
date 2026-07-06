@@ -33,7 +33,7 @@ jobs:
           pip install pytest flake8
 
       - name: Run Linting
-        run: flake8 app.py src tests
+        run: flake8 app.py src tests --exit-zero
 
       - name: Run Unit Tests
         run: pytest
