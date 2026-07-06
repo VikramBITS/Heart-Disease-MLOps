@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Projects/Heart-Disease-MLOps/mlruns/888722970509823065/12747319d28f418bb75ff18c21b34409/artifacts
+end_time: 1782922301876
+entry_point_name: ''
+experiment_id: '888722970509823065'
+lifecycle_stage: active
+run_id: 12747319d28f418bb75ff18c21b34409
+run_name: Tuned Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782922301812
+status: 3
+tags: []
+user_id: Vikram

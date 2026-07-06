@@ -1,0 +1,9 @@
+artifact_location: file:///c:/Projects/Heart-Disease-MLOps/mlruns/888722970509823065
+creation_time: 1782922114438
+effective_trace_archival_retention: null
+experiment_id: '888722970509823065'
+last_update_time: 1782922114438
+lifecycle_stage: active
+name: Heart Disease Prediction
+trace_location: null
+workspace: default

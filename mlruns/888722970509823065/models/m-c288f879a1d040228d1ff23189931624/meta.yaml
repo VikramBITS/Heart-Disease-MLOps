@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Projects/Heart-Disease-MLOps/mlruns/888722970509823065/models/m-c288f879a1d040228d1ff23189931624/artifacts
+creation_timestamp: 1782922312781
+experiment_id: '888722970509823065'
+last_updated_timestamp: 1782922323479
+model_id: m-c288f879a1d040228d1ff23189931624
+model_type: null
+name: heart_disease_model
+source_run_id: 6813e792938b42f8bda927917689cd9a
+status: 2
+status_message: null
